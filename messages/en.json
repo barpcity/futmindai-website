@@ -1,0 +1,268 @@
+{
+    "Index": {
+        "title": "Futmind AI | AI & Custom Software Solutions",
+        "description": "Turkey-based AI software company. We offer enterprise AI consulting, custom software development, LLM integration, automation, and digital transformation solutions."
+    },
+    "Navigation": {
+        "services": "Services",
+        "howItWorks": "How It Works",
+        "caseStudies": "Case Studies",
+        "faq": "FAQ",
+        "bookMeeting": "Book Meeting"
+    },
+    "Hero": {
+        "badgeOpen": "Open to new projects",
+        "badgeQuarter": "Q1 2026 Intakes Started",
+        "headlinePrefix": "Coding the Future",
+        "headlineSuffix": "with Artificial Intelligence",
+        "subtitle": "<important>Custom AI integrations</important> and scalable <important>enterprise software solutions</important> for your business. Are you ready to increase your efficiency by 40%?",
+        "ctaPrimary": "Start My Project",
+        "ctaSecondary": "Explore The System",
+        "stat1Value": "150",
+        "stat1Suffix": "+",
+        "stat1Label": "Systems Deployed",
+        "stat2Value": "12",
+        "stat2Suffix": "M+",
+        "stat2Label": "Data Points Processed",
+        "stat3Value": "99",
+        "stat3Suffix": ".9%",
+        "stat3Label": "Uptime Guarantee",
+        "scrollExplore": "Explore"
+    },
+    "About": {
+        "badge": "Our Expertise",
+        "titlePrefix": "Why",
+        "titleHighlight": "Futmind AI?",
+        "description": "Established in 2021, Futmind AI is a Turkey-based artificial intelligence and custom software development company focused directly on accelerating your business processes. Our goal is to eliminate manual process bottlenecks and permanently reduce your operational costs.",
+        "card1Title": "Results & ROI Driven",
+        "card1Desc": "We target measurable business outcomes in every project. We've enabled our clients to achieve up to 40% in operational cost savings.",
+        "card2Title": "Enterprise Security",
+        "card2Desc": "We offer data isolation for AI models and SOC-2 compliant On-Prem hosting options. Your data remains yours.",
+        "card3Title": "State-of-the-Art Architecture",
+        "card3Desc": "We build future-proof systems using the latest market-standard technologies like GPT-4o, Claude 3.5, LangChain, and Next.js.",
+        "card4Title": "Competent Research Team",
+        "card4Desc": "With a team comprising machine learning, full-stack development, and cloud architecture experts, we deliver practical and working solutions, not just theory.",
+        "stat1Value": "50",
+        "stat1Suffix": "+",
+        "stat1Label": "Completed Projects",
+        "stat2Value": "30",
+        "stat2Suffix": "+",
+        "stat2Label": "Enterprise Partners",
+        "stat3Value": "40",
+        "stat3Suffix": "%",
+        "stat3Label": "Avg Cost Reduction",
+        "stat4Value": "3",
+        "stat4Suffix": "+",
+        "stat4Label": "Countries Served"
+    },
+    "Bento": {
+        "badge": "Enterprise Standards",
+        "title": "Why They Choose Us?",
+        "item1Title": "Serverless Architecture",
+        "item1Desc": "100% scalable AWS/Next.js infrastructure responding instantly to traffic fluctuations with zero downtime and maximum performance.",
+        "item2Title": "Bank-Grade Security",
+        "item2Desc": "Data protection at GDPR/KVKK standards with SOC-2 compliance and end-to-end encryption.",
+        "item3Title": "Global Reach",
+        "item3Desc": "We serve enterprise clients not only in Turkey but also across Europe and the USA.",
+        "item4Title": "Multi-LLM Approach",
+        "item4Desc": "Avoiding vendor lock-in, we utilize an intelligent orchestration layer (RAG/Agentic Workflow) that dynamically selects the most suitable AI model for the task."
+    },
+    "Services": {
+        "badge": "Our Services",
+        "titlePrefix": "Empowering Your Business with",
+        "titleHighlight": "Comprehensive AI & Software Solutions",
+        "description": "We offer AI-powered custom technology solutions to businesses of all scales, from startups to enterprises.",
+        "list": [
+            {
+                "title": "AI Consulting & LLM Integration",
+                "description": "Increase operational efficiency with artificial intelligence strategies and customized large language model (LLM) integrations.",
+                "features": [
+                    "GPT-4 & Claude Integration",
+                    "RAG Systems & Vector DBs",
+                    "Enterprise AI Chatbot Development",
+                    "Data Analytics & Business Intelligence"
+                ]
+            },
+            {
+                "title": "Custom Software Development",
+                "description": "We build scalable, secure, and high-performance web and mobile applications using modern technologies.",
+                "features": [
+                    "Next.js & React Web Apps",
+                    "SaaS Platform Development",
+                    "RESTful & GraphQL API Design",
+                    "Cloud Native Architecture (AWS)"
+                ]
+            },
+            {
+                "title": "Automation & Digital Transformation",
+                "description": "Save time and costs by transforming your business processes with smart automation systems.",
+                "features": [
+                    "Workflow Automation",
+                    "Data Pipelines & ETL",
+                    "System Integration & APIs",
+                    "RPA (Robotic Process Automation)"
+                ]
+            }
+        ]
+    },
+    "CaseStudies": {
+        "badge": "Real Results",
+        "titlePrefix": "Tangible ROI, Measurable",
+        "titleHighlight": "Success Stories",
+        "description": "We don't just write code. We reduce operational costs and increase profitability for businesses. Here are some examples.",
+        "list": [
+            {
+                "title": "Advanced RAG Data Assistant for Finance Portal",
+                "client": "Global Investment Firm",
+                "description": "Developed an enterprise GPT-4 based assistant that analyzes strings of PDF reports in seconds and summarizes into a Q&A format.",
+                "metrics": [
+                    {
+                        "label": "Research Time",
+                        "value": "-85%"
+                    },
+                    {
+                        "label": "Monthly Savings",
+                        "value": "$45K+"
+                    }
+                ]
+            },
+            {
+                "title": "Full Automation for E-Commerce Operations",
+                "client": "Leading Retailer in Turkey",
+                "description": "Built a serverless micro-service architecture that fully automates order processing, billing, and customer notifications end-to-end.",
+                "metrics": [
+                    {
+                        "label": "Error Rate",
+                        "value": "0%"
+                    },
+                    {
+                        "label": "Processing Speed",
+                        "value": "10x"
+                    }
+                ]
+            },
+            {
+                "title": "AI Interview Bot for Human Resources",
+                "client": "International Tech Company",
+                "description": "A voice-based AI integration that conducts initial interviews, measures technical competencies, and provides detailed reports to the HR team.",
+                "metrics": [
+                    {
+                        "label": "Hiring Process",
+                        "value": "-2 Weeks"
+                    },
+                    {
+                        "label": "Candidate Capacity",
+                        "value": "+300%"
+                    }
+                ]
+            }
+        ]
+    },
+    "Automation": {
+        "badge": "How Smart Automation Works?",
+        "titlePrefix": "We ",
+        "titleStrike": "Eliminate",
+        "titleHighlight": "Automate",
+        "titleSuffix": " Manual Tasks",
+        "description": "Visualize how an example Customer Support (Helpdesk) automation runs flawlessly 24/7 in the background.",
+        "node1Title": "Incoming Request",
+        "node1Desc": "Customer Email",
+        "node2Title": "AI Analysis",
+        "node2Desc": "Intent & Sentiment",
+        "node3Title": "CRM Entry",
+        "node3Desc": "HubSpot / Salesforce",
+        "node4Title": "Action",
+        "node4Desc": "Auto Solution Reply"
+    },
+    "FAQ": {
+        "title": "Frequently Asked Questions",
+        "description": "Common questions about our processes and technology.",
+        "list": [
+            {
+                "q": "How much budget should I allocate for my AI project?",
+                "a": "The budget varies depending on the scope of your project (custom model training, existing API integration, data engineering needs). Generally, a simple RAG/Chatbot integration starts with more accessible budgets, while enterprise-level full automation processes are priced based on ROI calculation. Our initial 30-minute discovery call is free."
+            },
+            {
+                "q": "How do you ensure GDPR and local compliance?",
+                "a": "Data security and privacy are our top priorities. When designing our systems, we strictly apply data residency requirements, anonymization processes, and encryption standards (AES-256). Upon request, we also deploy end-to-end closed-circuit (On-Premise) LLM setups where data never leaves your infrastructure."
+            },
+            {
+                "q": "Do you only do AI, or do you develop end-to-end software?",
+                "a": "We are an end-to-end full-stack software agency. We design AI not just as an 'add-on' but as the heart of the system. We are experts in Next.js, React, Node.js, and cloud (AWS/Azure) architectures. Meaning, we can manage the entire process from your idea to a live product (SaaS)."
+            },
+            {
+                "q": "What is the average delivery time for a project?",
+                "a": "We can usually launch MVP (Minimum Viable Product) stage projects within 4 to 8 weeks. Enterprise transformation and large-scale automation projects take around 3 to 6 months. By following the Agile/Scrum methodology, we present you with a working product demo (Sprint Review) every 2 weeks."
+            },
+            {
+                "q": "Can you integrate with my existing systems (ERP, CRM)?",
+                "a": "Yes. In addition to popular systems like SAP, Salesforce, HubSpot, and Zoho, we can also integrate with your custom (legacy) systems via REST API, SOAP, or directly at the database (ETL) layer."
+            },
+            {
+                "q": "Do you provide support after project delivery?",
+                "a": "Absolutely. Every project is delivered with a warranty period. Furthermore, we offer SLA-based maintenance/support agreements for continuous system optimization, model updates, server maintenance (DevOps), and 24/7 guaranteed response times."
+            }
+        ]
+    },
+    "Testimonials": {
+        "badge": "Our Focus is Customer Success",
+        "titlePrefix": "Reviews from Our",
+        "titleSuffix": "Trusted Partners",
+        "list": [
+            {
+                "name": "Ahmet Yılmaz",
+                "role": "CTO, TechStart",
+                "text": "Working with Futmind AI changed our vision. Thanks to the custom LLM model they developed, our customer support operations accelerated by 60%."
+            },
+            {
+                "name": "Zeynep Kaya",
+                "role": "Operations Director, DataFlow",
+                "text": "They completely revamped our data analytics and automation processes. We experienced performance and security that far exceeded our expectations."
+            },
+            {
+                "name": "Can Demir",
+                "role": "Co-Founder, InnovateTR",
+                "text": "By migrating our SaaS platform's infrastructure entirely to a Serverless architecture, they cut our server costs in half. I highly recommend them."
+            }
+        ]
+    },
+    "CTA": {
+        "titlePrefix": "Let's Build the Future",
+        "titleHighlight": "Together",
+        "description": "Don't just watch the AI revolution from the outside. Meet with us today for custom, secure, and scalable solutions for your business.",
+        "footerText": "THE FIRST 30-MINUTE CONSULTATION CALL IS FREE"
+    },
+    "Contact": {
+        "titlePrefix": "Time to Turn Your Idea into",
+        "titleHighlight": "Reality",
+        "titleSuffix": "",
+        "description": "Share the details of your project with us. Let our AI experts and software engineers provide you with the best solution architecture within 24 hours.",
+        "tabForm": "Send Message",
+        "tabCalendly": "Schedule Meeting",
+        "formName": "Full Name *",
+        "formNameHolder": "John Doe",
+        "formCompany": "Company",
+        "formCompanyHolder": "Tech Inc.",
+        "formEmail": "Email *",
+        "formEmailHolder": "john@tech.com",
+        "formBudget": "Budget Range",
+        "formMessage": "Project Details *",
+        "formMessageHolder": "Briefly describe your problem and vision...",
+        "btnSubmit": "Send",
+        "btnSubmitting": "Sending...",
+        "successMsg": "Your request has been successfully received. We will get back to you within 24 hours.",
+        "errMsg": "Failed to send the message. Server error.",
+        "meetTitle": "Google Meet Call",
+        "meetDesc": "Visit our calendar to schedule a 30-minute technical discovery meeting.",
+        "meetBtn": "Open Calendar"
+    },
+    "Footer": {
+        "links": {
+            "services": "Services",
+            "about": "About Us",
+            "privacy": "Privacy",
+            "terms": "Terms"
+        },
+        "copyright": "Futmind AI Technologies. All rights reserved."
+    }
+}

@@ -1,0 +1,268 @@
+{
+    "Index": {
+        "title": "Futmind AI | Yapay Zeka & Özel Yazılım Çözümleri",
+        "description": "Türkiye merkezli yapay zeka yazılım şirketi. Kurumsal AI danışmanlığı, özel yazılım geliştirme, LLM entegrasyonu, otomasyon ve dijital dönüşüm çözümleri sunuyoruz."
+    },
+    "Navigation": {
+        "services": "Hizmetler",
+        "howItWorks": "Nasıl Çalışır",
+        "caseStudies": "Başarı Hikayeleri",
+        "faq": "SSS",
+        "bookMeeting": "Toplantı Ayarla"
+    },
+    "Hero": {
+        "badgeOpen": "Yeni projelere açığız",
+        "badgeQuarter": "Q1 2026 Alımları Başladı",
+        "headlinePrefix": "Yapay Zeka ile",
+        "headlineSuffix": "Geleceği Kodluyoruz",
+        "subtitle": "İşletmeniz için <important>özel yapay zeka entegrasyonları</important> ve ölçeklenebilir <important>kurumsal yazılım çözümleri.</important> Verimliliğinizi %40 artırmaya hazır mısınız?",
+        "ctaPrimary": "Projemi Başlat",
+        "ctaSecondary": "Sistemi İncele",
+        "stat1Value": "150",
+        "stat1Suffix": "+",
+        "stat1Label": "Devreye Alınan Sistem",
+        "stat2Value": "12",
+        "stat2Suffix": "M+",
+        "stat2Label": "İşlenen Veri Noktası",
+        "stat3Value": "99",
+        "stat3Suffix": ".9%",
+        "stat3Label": "Uptime Garantisi",
+        "scrollExplore": "Keşfet"
+    },
+    "About": {
+        "badge": "Uzmanlığımız",
+        "titlePrefix": "Neden",
+        "titleHighlight": "Futmind AI?",
+        "description": "Futmind AI, 2021 yılından bu yana Türkiye'de faaliyet gösteren, doğrudan iş süreçlerinizi hızlandırmaya odaklanan bir yapay zeka ve özel yazılım geliştirme şirketidir. Amacımız şirketinizdeki manuel süreçleri bitirmek ve operasyonel maliyetlerinizi kalıcı olarak düşürmektir.",
+        "card1Title": "Sonuç & ROI Odaklı",
+        "card1Desc": "Her projede ölçülebilir iş sonuçları hedefliyoruz. Müşterilerimizin ortalama %40'a varan operasyonel maliyet tasarrufu elde etmesini sağladık.",
+        "card2Title": "Enterprise Güvenlik",
+        "card2Desc": "AI modellerinde veri izolasyonu ve SOC-2 uyumlu kurum içi barındırma (On-Prem) seçenekleri sunuyoruz. Verileriniz size kalır.",
+        "card3Title": "En Modern Mimari",
+        "card3Desc": "GPT-4o, Claude 3.5, LangChain ve Next.js gibi pazar standardını belirleyen en güncel teknolojileri kullanarak geleceğe hazır sistemler üretiyoruz.",
+        "card4Title": "Yetkin Araştırma Ekibi",
+        "card4Desc": "Makine öğrenimi, full-stack geliştirme ve cloud mimarisi uzmanlarından oluşan ekibimizle sadece teorik değil, pratik ve çalışan çözümler sunuyoruz.",
+        "stat1Value": "50",
+        "stat1Suffix": "+",
+        "stat1Label": "Tamamlanan Proje",
+        "stat2Value": "30",
+        "stat2Suffix": "+",
+        "stat2Label": "Kurumsal Partner",
+        "stat3Value": "40",
+        "stat3Suffix": "%",
+        "stat3Label": "Ort. Maliyet Düşüşü",
+        "stat4Value": "3",
+        "stat4Suffix": "+",
+        "stat4Label": "Ülkede Hizmet"
+    },
+    "Bento": {
+        "badge": "Enterprise Standartları",
+        "title": "Neden Bizi Seçiyorlar?",
+        "item1Title": "Sunucusuz (Serverless) Mimari",
+        "item1Desc": "Trafik dalgalanmalarına anında yanıt veren %100 ölçeklenebilir AWS/Next.js altyapısı ile sıfır kesinti, maksimum performans.",
+        "item2Title": "Banka Seviyesi Güvenlik",
+        "item2Desc": "SOC-2 uyumluluğu ve uçtan uca şifreleme ile KVKK/GDPR standartlarında veri koruması.",
+        "item3Title": "Global Yetkinlik",
+        "item3Desc": "Sadece Türkiye'de değil, Avrupa ve ABD'deki kurumsal müşterilerimize de hizmet veriyoruz.",
+        "item4Title": "Çoklu-Model (Multi-LLM) Yaklaşımı",
+        "item4Desc": "Tek bir sağlayıcıya (vendor lock-in) bağlı kalmadan, göreve en uygun yapay zeka modelini dinamik olarak seçen akıllı orkestrasyon katmanı (RAG/Agentic Workflow) kullanıyoruz."
+    },
+    "Services": {
+        "badge": "Hizmetlerimiz",
+        "titlePrefix": "İşletmenizi Güçlendiren",
+        "titleHighlight": "Kapsamlı AI & Yazılım Çözümleri",
+        "description": "Startup'lardan enterprise şirketlere kadar her ölçekte işletmeye yapay zeka destekli özel teknoloji çözümleri sunuyoruz.",
+        "list": [
+            {
+                "title": "AI Danışmanlığı & LLM Entegrasyonu",
+                "description": "Yapay zeka stratejileri ve özelleştirilmiş büyük dil modeli (LLM) entegrasyonları ile operasyonel verimliliği artırın.",
+                "features": [
+                    "GPT-4 & Claude Entegrasyonu",
+                    "RAG Sistemleri & Vektör Veritabanı",
+                    "Kurumsal AI Chatbot Geliştirme",
+                    "Veri Analitiği & İş Zekası"
+                ]
+            },
+            {
+                "title": "Özel Yazılım Geliştirme",
+                "description": "Modern teknolojilerle ölçeklenebilir, güvenli ve yüksek performanslı web ve mobil uygulamalar geliştiriyoruz.",
+                "features": [
+                    "Next.js & React Web Uygulamaları",
+                    "SaaS Platform Geliştirme",
+                    "RESTful & GraphQL API Tasarımı",
+                    "Cloud Native Mimari (AWS)"
+                ]
+            },
+            {
+                "title": "Otomasyon & Dijital Dönüşüm",
+                "description": "İş süreçlerinizi akıllı otomasyon sistemleri ile dönüştürerek zamandan ve maliyetten tasarruf edin.",
+                "features": [
+                    "Workflow Otomasyonu",
+                    "Veri Pipeline & ETL Süreçleri",
+                    "Sistem Entegrasyonu & API Bağlantıları",
+                    "RPA (Robotik Süreç Otomasyonu)"
+                ]
+            }
+        ]
+    },
+    "CaseStudies": {
+        "badge": "Gerçek Sonuçlar",
+        "titlePrefix": "Somut ROI, Ölçülebilir",
+        "titleHighlight": "Başarı Hikayeleri",
+        "description": "Sadece kod yazmıyoruz. İşletmelerin operasyonel maliyetlerini düşürüyor ve karlılığını artırıyoruz. İşte bazı örnekler.",
+        "list": [
+            {
+                "title": "Finans Portalı İçin Gelişmiş RAG Veri Asistanı",
+                "client": "Global Yatırım Firması",
+                "description": "Binlerce PDF raporunu saniyeler içinde analiz edip özetleyen ve soru sorulabilen (Q&A) kurumsal bir GPT-4 tabanlı asistan geliştirdik.",
+                "metrics": [
+                    {
+                        "label": "Araştırma Süresi",
+                        "value": "-%85"
+                    },
+                    {
+                        "label": "Aylık Tasarruf",
+                        "value": "$45K+"
+                    }
+                ]
+            },
+            {
+                "title": "E-Ticaret Operasyonları İçin Tam Otomasyon",
+                "client": "Türkiye'nin Lider Perakendecisi",
+                "description": "Sipariş işleme, faturalandırma ve müşteri bildirimlerini uçtan uca otomatize eden sunucusuz (serverless) bir mikro-servis mimarisi kurduk.",
+                "metrics": [
+                    {
+                        "label": "Hata Payı",
+                        "value": "0%"
+                    },
+                    {
+                        "label": "İşlem Hızı",
+                        "value": "10x"
+                    }
+                ]
+            },
+            {
+                "title": "İnsan Kaynakları İçin AI Mülakat Botu",
+                "client": "Uluslararası Teknoloji Şirketi",
+                "description": "Adaylarla ilk mülakatı gerçekleştiren, teknik yetkinliklerini ölçen ve İK ekibine detaylı rapor sunan sesli yapay zeka entegrasyonu.",
+                "metrics": [
+                    {
+                        "label": "İşe Alım Süreci",
+                        "value": "-2 Hafta"
+                    },
+                    {
+                        "label": "Aday Kapasitesi",
+                        "value": "+300%"
+                    }
+                ]
+            }
+        ]
+    },
+    "Automation": {
+        "badge": "Akıllı Otomasyon Nasıl Çalışır?",
+        "titlePrefix": "Manuel İşleri ",
+        "titleStrike": "Kaldırıyoruz",
+        "titleHighlight": "Sistemlere",
+        "titleSuffix": " Bırakıyoruz",
+        "description": "Örnek bir Müşteri Destek (Helpdesk) otomasyonunun 7/24 arkada nasıl problemsiz işlediğini görselleştirin.",
+        "node1Title": "Gelen Talep",
+        "node1Desc": "Müşteri E-postası",
+        "node2Title": "AI Analizi",
+        "node2Desc": "Niyet ve Duygu Analizi",
+        "node3Title": "CRM Kayıt",
+        "node3Desc": "HubSpot / Salesforce",
+        "node4Title": "Aksiyon",
+        "node4Desc": "Otomatik Çözüm Yanıtı"
+    },
+    "FAQ": {
+        "title": "Merak Edilenler",
+        "description": "Süreçlerimiz ve teknolojimiz hakkında sıkça sorulan sorular.",
+        "list": [
+            {
+                "q": "Yapay zeka projem için ne kadar bütçe ayırmalıyım?",
+                "a": "Bütçe, projenizin kapsamına (özel model eğitimi, mevcut API entegrasyonu, veri mühendisliği ihtiyacı) göre değişiklik gösterir. Genellikle basit bir RAG/Chatbot entegrasyonu daha ulaşılabilir bütçelerle başlarken, enterprise seviyesindeki tam otomasyon süreçleri ROI (Yatırım Getirisi) hesaplanarak fiyatlandırılır. İlk 30 dakikalık keşif görüşmemiz ücretsizdir."
+            },
+            {
+                "q": "KVKK ve GDPR uyumluluğunu nasıl sağlıyorsunuz?",
+                "a": "Veri güvenliği ve gizliliği en büyük önceliğimizdir. Sistemlerimizi tasarlarken verilerin coğrafi konumlarını (data residency), anonimleştirme süreçlerini ve şifreleme standartlarını (AES-256) strict olarak uyguluyoruz. Talep halinde, verilerin hiçbir şekilde dışarı çıkmadığı uçtan uca kapalı devre (On-Premise) LLM kurulumları da yapıyoruz."
+            },
+            {
+                "q": "Sadece yapay zeka mı yapıyorsunuz, yoksa uçtan uca yazılım geliştiriyor musunuz?",
+                "a": "Uçtan uca full-stack yazılım ajansıyız. Yapay zekayı sadece bir 'eklenti' olarak değil, sistemin kalbi olarak tasarlıyoruz. Next.js, React, Node.js ve cloud (AWS/Azure) mimarilerinde uzmanız. Yani fikrinizden canlı canlı ürüne (SaaS) kadar tüm süreci biz yönetebiliyoruz."
+            },
+            {
+                "q": "Bir projenin teslim süresi ortalama ne kadardır?",
+                "a": "MVP (Minimum Viable Product) aşamasındaki projeleri genellikle 4 ila 8 hafta içerisinde canlıya alabiliyoruz. Kurumsal dönüşüm ve geniş çaplı otomasyon projeleri ise 3 ila 6 ay bandında sürmektedir. Agile/Scrum metodolojisi ile ilerleyerek her 2 haftada bir size çalışır ürün demodunu (Sprint Review) sunuyoruz."
+            },
+            {
+                "q": "Mevcut sistemlerimle (ERP, CRM) entegrasyon yapabiliyor musunuz?",
+                "a": "Evet. SAP, Salesforce, HubSpot, Zoho gibi popüler sistemlerin yanı sıra, kurumunuza özel yazılmış (legacy) sistemlerle de REST API, SOAP veya doğrudan veritabanı (ETL) katmanında entegrasyon sağlayabiliyoruz."
+            },
+            {
+                "q": "Proje tesliminden sonra destek veriyor musunuz?",
+                "a": "Kesinlikle. Her projemiz garanti süresi ile birlikte teslim edilir. Ayrıca, sistemin sürekli optimizasyonu, model güncellemeleri, sunucu bakımları (DevOps) ve 7/24 SLA garantili SLA (Hizmet Seviyesi Sözleşmesi) bazlı bakım/destek anlaşmaları sunuyoruz."
+            }
+        ]
+    },
+    "Testimonials": {
+        "badge": "Odak Noktamız Müşteri Başarısı",
+        "titlePrefix": "Güvenilir Partnerlerimizin",
+        "titleSuffix": "Yorumları",
+        "list": [
+            {
+                "name": "Ahmet Yılmaz",
+                "role": "CTO, TechStart",
+                "text": "Futmind AI ile çalışmak vizyonumuzu değiştirdi. Geliştirdikleri özel LLM modeli sayesinde müşteri destek operasyonlarımız %60 hızlandı."
+            },
+            {
+                "name": "Zeynep Kaya",
+                "role": "Operasyon Direktörü, DataFlow",
+                "text": "Veri analitiği ve otomasyon süreçlerimizi baştan sona yenilediler. Beklentilerimizin çok ötesinde bir performans ve güvenlik deneyimledik."
+            },
+            {
+                "name": "Can Demir",
+                "role": "Kurucu Ortak, InnovateTR",
+                "text": "SaaS platformumuzun altyapısını tamamen Serverless mimariye geçirerek sunucu maliyetlerimizi yarı yarıya düşürdüler. Kesinlikle tavsiye ediyorum."
+            }
+        ]
+    },
+    "CTA": {
+        "titlePrefix": "Geleceği Birlikte",
+        "titleHighlight": "İnşa Edelim",
+        "description": "Yapay zeka devrimini dışarıdan izlemeyin. İşletmenize özel, güvenli ve ölçeklenebilir çözümler için bugün bizimle tanışın.",
+        "footerText": "İLK 30 DAKİKALIK DANIŞMANLIK GÖRÜŞMESİ ÜCRETSİZDİR"
+    },
+    "Contact": {
+        "titlePrefix": "Fikrinizi",
+        "titleHighlight": "Gerçeğe",
+        "titleSuffix": "Dönüştürme Zamanı",
+        "description": "Projenizin detaylarını bizimle paylaşın. Yapay zeka uzmanlarımız ve yazılım mühendislerimiz size en iyi çözüm mimarisini 24 saat içinde sunsun.",
+        "tabForm": "Mesaj Gönder",
+        "tabCalendly": "Toplantı Planla",
+        "formName": "Ad Soyad *",
+        "formNameHolder": "John Doe",
+        "formCompany": "Şirket",
+        "formCompanyHolder": "Tech Inc.",
+        "formEmail": "E-Posta *",
+        "formEmailHolder": "john@tech.com",
+        "formBudget": "Bütçe Aralığı",
+        "formMessage": "Proje Detayları *",
+        "formMessageHolder": "Sorununuzu ve vizyonunuzu kısaca anlatın...",
+        "btnSubmit": "Gönder",
+        "btnSubmitting": "Gönderiliyor...",
+        "successMsg": "Talebiniz başarıyla alındı. 24 saat içinde size dönüş yapacağız.",
+        "errMsg": "Mesaj gönderilirken sunucu hatası oluştu.",
+        "meetTitle": "Google Meet Görüşmesi",
+        "meetDesc": "30 dakikalık teknik keşif toplantısı planlamak için takvimimizi ziyaret edin.",
+        "meetBtn": "Takvimi Aç"
+    },
+    "Footer": {
+        "links": {
+            "services": "Hizmetler",
+            "about": "Hakkımızda",
+            "privacy": "Gizlilik",
+            "terms": "Şartlar"
+        },
+        "copyright": "Futmind AI Technologies. Tüm hakları saklıdır."
+    }
+}

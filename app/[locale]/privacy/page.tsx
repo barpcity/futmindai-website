@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy | Future Mind",
-  description: "Future Mind Privacy Policy - How we collect, use, and protect your data",
+  title: "Privacy Policy | Futmind",
+  description: "Futmind Privacy Policy - How we collect, use, and protect your data",
 };
 
 export default function PrivacyPolicy() {
@@ -36,7 +36,7 @@ export default function PrivacyPolicy() {
             fontFamily: "var(--font-syne), sans-serif",
           }}
         >
-          Future Mind
+          Futmind
         </Link>
         <nav style={{ display: "flex", gap: "1.5rem" }}>
           <Link href="/tos" style={{ color: "#a0a0a0", textDecoration: "none", fontSize: "0.9rem" }}>
@@ -72,7 +72,7 @@ export default function PrivacyPolicy() {
             1. Introduction
           </h2>
           <p style={{ lineHeight: 1.7, color: "#c0c0c0" }}>
-            Future Mind (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website futmind.ai and our services.
+            Futmind (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;) respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website futmind.ai and our services.
           </p>
         </section>
 
@@ -126,7 +126,7 @@ export default function PrivacyPolicy() {
           <ul style={{ lineHeight: 1.7, color: "#c0c0c0", paddingLeft: "1.5rem" }}>
             <li style={{ marginBottom: "0.5rem" }}>With service providers who assist in operating our services</li>
             <li style={{ marginBottom: "0.5rem" }}>When required by law or to respond to legal process</li>
-            <li style={{ marginBottom: "0.5rem" }}>To protect the rights, property, or safety of Future Mind, our users, or the public</li>
+            <li style={{ marginBottom: "0.5rem" }}>To protect the rights, property, or safety of Futmind, our users, or the public</li>
             <li style={{ marginBottom: "0.5rem" }}>In connection with a merger, acquisition, or sale of assets</li>
           </ul>
         </section>
@@ -230,7 +230,7 @@ export default function PrivacyPolicy() {
           fontSize: "0.85rem",
         }}
       >
-        <p>&copy; 2026 Future Mind. All rights reserved.</p>
+        <p>&copy; 2026 Futmind. All rights reserved.</p>
         <div style={{ marginTop: "0.75rem", display: "flex", justifyContent: "center", gap: "1.5rem" }}>
           <Link href="/tos" style={{ color: "#888", textDecoration: "none" }}>Terms of Service</Link>
           <Link href="/privacy" style={{ color: "#888", textDecoration: "none" }}>Privacy Policy</Link>

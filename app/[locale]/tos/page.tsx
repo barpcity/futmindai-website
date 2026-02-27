@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Terms of Service | Future Mind",
-  description: "Future Mind Terms of Service - AI-Powered Software Solutions",
+  title: "Terms of Service | Futmind",
+  description: "Futmind Terms of Service - AI-Powered Software Solutions",
 };
 
 export default function TermsOfService() {
@@ -36,7 +36,7 @@ export default function TermsOfService() {
             fontFamily: "var(--font-syne), sans-serif",
           }}
         >
-          Future Mind
+          Futmind
         </Link>
         <nav style={{ display: "flex", gap: "1.5rem" }}>
           <Link href="/privacy" style={{ color: "#a0a0a0", textDecoration: "none", fontSize: "0.9rem" }}>
@@ -72,7 +72,7 @@ export default function TermsOfService() {
             1. Acceptance of Terms
           </h2>
           <p style={{ lineHeight: 1.7, color: "#c0c0c0" }}>
-            By accessing and using the services provided by Future Mind (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;), including our website at futmind.ai and any related applications, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, please do not use our services.
+            By accessing and using the services provided by Futmind (&ldquo;we,&rdquo; &ldquo;us,&rdquo; or &ldquo;our&rdquo;), including our website at futmind.ai and any related applications, you agree to be bound by these Terms of Service. If you do not agree with any part of these terms, please do not use our services.
           </p>
         </section>
 
@@ -81,7 +81,7 @@ export default function TermsOfService() {
             2. Description of Services
           </h2>
           <p style={{ lineHeight: 1.7, color: "#c0c0c0" }}>
-            Future Mind provides AI-powered software solutions, consulting services, and digital automation tools. Our services include but are not limited to: AI integration consulting, custom software development, social media automation, content generation, and data analytics solutions.
+            Futmind provides AI-powered software solutions, consulting services, and digital automation tools. Our services include but are not limited to: AI integration consulting, custom software development, social media automation, content generation, and data analytics solutions.
           </p>
         </section>
 
@@ -99,7 +99,7 @@ export default function TermsOfService() {
             4. Intellectual Property
           </h2>
           <p style={{ lineHeight: 1.7, color: "#c0c0c0" }}>
-            All content, features, and functionality of our services, including but not limited to text, graphics, logos, and software, are owned by Future Mind and are protected by intellectual property laws. You may not reproduce, distribute, or create derivative works without our prior written consent.
+            All content, features, and functionality of our services, including but not limited to text, graphics, logos, and software, are owned by Futmind and are protected by intellectual property laws. You may not reproduce, distribute, or create derivative works without our prior written consent.
           </p>
         </section>
 
@@ -126,7 +126,7 @@ export default function TermsOfService() {
             7. Limitation of Liability
           </h2>
           <p style={{ lineHeight: 1.7, color: "#c0c0c0" }}>
-            Future Mind shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use or inability to use our services. Our total liability shall not exceed the amount paid by you for the services during the twelve months preceding the claim.
+            Futmind shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use or inability to use our services. Our total liability shall not exceed the amount paid by you for the services during the twelve months preceding the claim.
           </p>
         </section>
 
@@ -185,7 +185,7 @@ export default function TermsOfService() {
           fontSize: "0.85rem",
         }}
       >
-        <p>&copy; 2026 Future Mind. All rights reserved.</p>
+        <p>&copy; 2026 Futmind. All rights reserved.</p>
         <div style={{ marginTop: "0.75rem", display: "flex", justifyContent: "center", gap: "1.5rem" }}>
           <Link href="/tos" style={{ color: "#888", textDecoration: "none" }}>Terms of Service</Link>
           <Link href="/privacy" style={{ color: "#888", textDecoration: "none" }}>Privacy Policy</Link>
