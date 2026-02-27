@@ -17,7 +17,7 @@ export const Footer = () => {
                         </div>
                     </div>
                     <span className="font-bold text-lg tracking-tight">
-                        Future<span className="text-primary">Mind</span> AI
+                        Fut<span className="text-primary">mind</span> AI
                     </span>
                 </div>
 

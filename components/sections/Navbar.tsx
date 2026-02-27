@@ -37,7 +37,7 @@ export const Navbar = () => {
                         </div>
                     </div>
                     <span className="font-bold text-xl tracking-tight text-white group-hover:text-primary transition-colors">
-                        Future<span className="text-primary group-hover:text-white transition-colors">Mind</span>
+                        Fut<span className="text-primary group-hover:text-white transition-colors">mind</span>
                     </span>
                 </motion.a>
 
